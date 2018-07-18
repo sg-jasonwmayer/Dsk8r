@@ -3,6 +3,7 @@ Dsk8r Skateboards Codebase
 ## Everything here is what is needed to run the dsk8r site ##
 
 Dsk8R information:
+http://dsk8r.com
 
 http://jasonmayer.com/dsk8r/
 https://dsk8rskateboards.youcanbook.me/
