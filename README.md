@@ -5,7 +5,7 @@ Dsk8r Skateboards Web Site
 Dsk8R information:
 http://dsk8r.com
 
-dsk8r
+
 
 http://jasonmayer.com/dsk8r/
 https://dsk8rskateboards.youcanbook.me/
