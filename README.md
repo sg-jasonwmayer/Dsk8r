@@ -15,6 +15,8 @@ We offer lessons in skateboarding that will take you from 0 to 100 in 30 min. We
 
 We offer lesson packages to help keep things affordable- 
 
+
+
 1 lesson 30 min one on one - $30
 1 lesson 1 hr one on one - $50
 1 group lesson 30 min - $25
