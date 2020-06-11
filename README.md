@@ -6,7 +6,6 @@ Dsk8R information:
 http://dsk8r.com
 
 
-
 http://jasonmayer.com/dsk8r/
 https://dsk8rskateboards.youcanbook.me/
 https://www.facebook.com/ssk8rskateboards/
