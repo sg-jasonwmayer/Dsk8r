@@ -24,3 +24,4 @@ We offer lesson packages to help keep things affordable-
 
 Thanks and have fun! Go Skate!
 
+
