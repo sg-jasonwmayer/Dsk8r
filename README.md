@@ -21,6 +21,7 @@ We offer lesson packages to help keep things affordable-
 3 30 min one on one lessons $75
 5 30 min one on one lessons $100
 
+
 Thanks and have fun! Go Skate!
 
 
