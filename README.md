@@ -2,8 +2,6 @@
 Dsk8r Skateboards Web Site
 ## Everything here is what is needed to run the Dsk8r site ##
 
-
-
 ### Dsk8R information:
 http://dsk8r.com
 http://jasonmayer.com/dsk8r/
